@@ -1,3 +1,3 @@
 # IBM-Capstone-Project
 
-Hi
+Contains all the jupyter notebook files for the final capstone project. 
